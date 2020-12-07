@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project Audio</string>
+    <string name="title_home">Home</string>
+    <string name="title_all_songs">All Songs</string>
+
+    <string name="api_url">https://reqres.in/api/users</string>
+</resources>
